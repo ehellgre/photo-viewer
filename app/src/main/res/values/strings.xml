@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="next_button_txt">NEXT</string>
+    <string name="previous_button_txt">PREVIOUS</string>
+</resources>
